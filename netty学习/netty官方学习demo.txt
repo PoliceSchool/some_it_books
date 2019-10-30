@@ -1,0 +1,2 @@
+http://ifeve.com/netty-home/
+netty基础数据结构解析：http://tutorials.jenkov.com/netty/overview.html
